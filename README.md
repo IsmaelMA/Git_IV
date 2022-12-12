@@ -1,6 +1,6 @@
 # Git_IV
 ## Miembros 🚗
--Ismael
--Álvaro
--Fernando
+* Ismael
+* Álvaro
+* Fernando
 
